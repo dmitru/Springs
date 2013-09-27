@@ -5,7 +5,7 @@ Find and visualize the equilibrium state of a physical system: masses in a plane
 
 Input
 =====
-The input data is the description of the physical system - bodies in a plane joined with springs.
+The input data is the description of a physical system - bodies in a plane joined with springs.
 
 Output & Visualization
 ======================
