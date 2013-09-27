@@ -1,7 +1,7 @@
-Springs
+Problem
 =======
 
-Using numerical linear methods to find the equilibrium state of the system of bodies joined with springs.
+Find and visualize the equilibrium state of a physical system: masses in a plane joined with springs.
 
 Input
 =====
