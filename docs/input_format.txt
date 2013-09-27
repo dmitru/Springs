@@ -1,0 +1,15 @@
+This document describes the format of data, which is the same for 
+input and output of the program.
+
+<n>, number of bodies
+n lines:
+<x_i y_i>, their coordinates
+
+<m>, number of springs
+m lines:
+<a_i b_i k_i>, ids of two bodies joined by the spring and the stiffness of the spring
+
+<c>, number of fixed bodies
+c lines:
+<c_i>, id of the body with fixed coordinates
+
